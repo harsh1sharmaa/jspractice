@@ -1,0 +1,25 @@
+input[type="number" i] {
+    padding: 8px 40px;
+    border: 3px solid gray;
+    border-radius: 5px;
+}
+body{
+    display: grid;
+
+}
+#main{
+    width: 30%;
+    margin: 0 auto;
+}
+#btn{
+    
+    padding: 10px 10px 10px 10px ;
+    background-color: rgb(167, 167, 167);
+    width: 40%;
+    margin: 0 15%;
+    border: 3px solid rgb(124, 123, 123);
+    border-radius: 4%;
+}
+*{
+    margin-top: 15px;
+}
